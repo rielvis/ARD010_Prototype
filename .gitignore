@@ -1,0 +1,71 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Ee]xportedObj/
+[Dd]is/
+[Uu]ser[Ss]ettings/
+
+# Asset meta data should generally be kept
+# but if you are using a team workflow with no Unity version control
+# you may want to ignore these as well.
+# *.meta
+
+# Visual Studio / Rider / user-specific editor settings
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Unity crash reports
+sysinfo.txt
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Android / iOS build artifacts
+*.apk
+*.aab
+*.ipa
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcodeproj
+
+# Optional: generated AR / XR packages or streaming assets
+# Remove these if you intentionally track them.
+AssetBundles/
+StreamingAssets/
+
+# Local test output
+/coverage/
+/Results/
+
+# Keep this repo clean from generated scene data
+*.pidb
+*.pid
+*.unitypackage
